@@ -20,3 +20,9 @@
 ```
 var myVar = "Hello, world!";
 ```
+
+# Adding a lask list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
